@@ -1,5 +1,5 @@
-# P$^2$-Net-tensorflow
-The open source code of  "P$^2$-Net: Priori Prompt Learning for Pulmonary Arterial Hypertension Prognosis Prediction on 3D CT Images". 
+# PC-Reg-RT
+The source code of "Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching". It will be opened when the paper is accepted.
 
 If you use densebiasnet or some part of the code, please cite (see bibtex):
 
