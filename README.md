@@ -5,7 +5,7 @@
 We propose the Perception-Correspondence Decoupling Registration (PC-Reg) for few-shot deformable medical image registration, greatly improving the registration accuracy on ROIs with texture-preserving.
 
 
-<p align="center"><img width="100%" src="fig/detail.png" /></p>
+<p align="center"><img width="100%" src="fig/detil.png" /></p>
 
 ## Paper
 This repository provides the official tensorflow implementation of PC-Reg-RT in the following papers:
