@@ -7,4 +7,4 @@ If you use densebiasnet or some part of the code, please cite (see bibtex):
 
 ## NEWS!!!
 
-[**The pytorch version is opened now!**](https://ieeexplore.ieee.org/document/9477084)
+**The [pytorch](https://ieeexplore.ieee.org/document/9477084) version is opened now!**
