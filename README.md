@@ -16,7 +16,7 @@ Southeast University <br/>
 IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/jbhi/)) <br/>
 [Paper](https://ieeexplore.ieee.org/document/9477084) | [Code](https://github.com/YutingHe-list/PC-Reg-RT)
 
-## Official implementation
+## Available implementation
 - [tensorflow/](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/tensorflow)
 - [pytorch/](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/pytorch)
 
