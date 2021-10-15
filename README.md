@@ -27,7 +27,7 @@ If you use PC-Reg-RT for your research, please cite our papers:
   number={},
   pages={1-1},
   doi={10.1109/JBHI.2021.3095409}}
-
+```
 
 ## Acknowledgments
 
