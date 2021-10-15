@@ -7,3 +7,8 @@ We provide the official <b>PyTorch</b> implementation of training PC-Reg-RT in t
 Southeast University <br/>
 IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/jbhi/)) <br/>
 [Paper](https://ieeexplore.ieee.org/document/9477084) | [Code](https://github.com/YutingHe-list/PC-Reg-RT)
+
+## Dependencies
++ Linux / Windows
++ Python 3.6+
++ Pytorch 1.2.0
