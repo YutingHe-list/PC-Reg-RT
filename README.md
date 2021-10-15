@@ -2,6 +2,8 @@
 
 [NEWS!!]**The [pytorch](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/pytorch) version is opened now!**
 
+We propose the Perception-Correspondence Decoupling Registration (PC-Reg) for few-shot deformable medical image registration, greatly improving the registration accuracy on ROIs with texture-preserving.
+
 ## Paper
 This repository provides the official tensorflow implementation of PC-Reg-RT in the following papers:
 
