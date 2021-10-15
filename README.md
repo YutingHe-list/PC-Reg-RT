@@ -12,8 +12,8 @@ IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/
 [Paper](https://ieeexplore.ieee.org/document/9477084) | [Code](https://github.com/YutingHe-list/PC-Reg-RT)
 
 ## Official implementation
--tensorflow/
--pytorch/
+- tensorflow/
+- pytorch/
 
 ## Citation
 If you use PC-Reg-RT for your research, please cite our papers:
