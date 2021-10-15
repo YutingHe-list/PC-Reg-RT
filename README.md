@@ -1,7 +1,14 @@
-# PC-Reg-RT
+# PC-Reg-RT: Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching
 
 [NEWS!!]**The [pytorch](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/pytorch) version is opened now!**
 
-**Y, He et al., "Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2021.3095409.** [https://ieeexplore.ieee.org/document/9477084](https://ieeexplore.ieee.org/document/9477084)
+## Paper
+This repository provides the official tensorflow implementation of PC-Reg-RT in the following papers:
+
+**Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching** <br/> 
+[Yuting He](http://19951124.academic.site/?lang=en), TianTian Li, Rongjun Ge, Jian Yang, [Youyong Kong](https://cse.seu.edu.cn/2019/0105/c23024a257502/page.htm),Jian Zhu, Huazhong Shu, [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
+Southeast University <br/>
+IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/jbhi/)) <br/>
+[Paper](https://ieeexplore.ieee.org/document/9477084) | [Code](https://github.com/YutingHe-list/PC-Reg-RT)
 
 
