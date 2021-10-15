@@ -18,10 +18,12 @@ IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/
 ## Citation
 If you use PC-Reg-RT for your research, please cite our papers:
 ```
-@article{zhou2019unetplusplus,
-  title={UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation},
-  author={Zhou, Zongwei and Siddiquee, Md Mahfuzur Rahman and Tajbakhsh, Nima and Liang, Jianming},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2019},
-  publisher={IEEE}
-}
+@ARTICLE{9477084,
+  author={He, Yuting and Li, Tiantian and Ge, Rongjun and Yang, Jian and Kong, Youyong and Zhu, Jian and Shu, Huazhong and Yang, Guanyu and Li, Shuo},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2021.3095409}}
