@@ -27,3 +27,8 @@ If you use PC-Reg-RT for your research, please cite our papers:
   number={},
   pages={1-1},
   doi={10.1109/JBHI.2021.3095409}}
+
+
+## Acknowledgments
+
+This research was supported by the National Key Research and Development Program of China (2017YFC0109202), National Natural Science Foundation under grants (31800825, 31571001, 61828101), Excellence Project Funds of Southeast University and Scientific Research Foundation of Graduate School of Southeast University (YBPY2139). We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations in this paper.
