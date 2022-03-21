@@ -26,11 +26,11 @@ If you use PC-Reg-RT for your research, please cite our papers:
 @ARTICLE{9477084,
   author={He, Yuting and Li, Tiantian and Ge, Rongjun and Yang, Jian and Kong, Youyong and Zhu, Jian and Shu, Huazhong and Yang, Guanyu and Li, Shuo},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={Few-shot Learning for Deformable Medical Image Registration with Perception-Correspondence Decoupling and Reverse Teaching}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  title={Few-Shot Learning for Deformable Medical Image Registration With Perception-Correspondence Decoupling and Reverse Teaching}, 
+  year={2022},
+  volume={26},
+  number={3},
+  pages={1177-1187},
   doi={10.1109/JBHI.2021.3095409}}
 ```
 
